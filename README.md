@@ -39,12 +39,12 @@ The methodology adopted for this project series revolves around incremental desi
 
 This project series builds a complete lift control system, divided into six incremental projects:
 
-1. **Basic Lift Movement**: Implementing lift control for moving between floors.
-2. **Floor Selection Handling**: Adding logic for floor request prioritization.
-3. **Door Automation**: Controlling the doors to open/close automatically at each floor.
-4. **Safety Mechanisms**: Incorporating door interlocks and obstacle detection.
-5. **Emergency Stop Functionality**: Ensuring immediate lift halting and door freezing during emergencies.
-6. **Manual Override**: Allowing manual control of lift movement and door operation during emergencies.
+1. Door control [More Detail](Door_Control_project.md)
+2. Cabin control [More Detail](Cabin_Control_project.md)
+3. Control of lift for two floors [More Detail](Control_of_Lift(2_Floors).md)
+4. Control of lift for three floors [More Detail](Control_of_Lift(3_Floors).md)
+5. Sequence with door control [More Detail](Sequence_with_Door_Control.md)
+6. Full sequence required for lift [More Detail](Full_Sequence.md)
 
 Each stage ensures safety, efficiency, and scalability of the lift system.
 
