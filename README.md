@@ -4,6 +4,8 @@
 
 This repository contains a comprehensive series of six projects focused on developing a robust and scalable lift control system. Each project progressively enhances the functionality, incorporating advanced features such as emergency stop mechanisms, manual overrides, and automated door and lift controls. The final system is implemented using Lucas-Nülle PLC and the CODESYS environment.
 
+![image](https://github.com/user-attachments/assets/43b352bd-93dc-487a-b404-ed0af40db90b)
+
 ---
 
 ## **Methodology**
